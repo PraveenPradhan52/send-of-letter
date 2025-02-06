@@ -1,0 +1,8 @@
+student_offer_project
+│── venv/                 # Virtual environment
+│── templates/            # Folder for HTML files
+│   └── form.html         # Internship form page
+│── app.py                # Main Flask backend
+│── offer_template.pdf    # Offer letter template (existing PDF)
+│── pyvenv.cfg
+│── requirements.txt      # Dependencies (optional)
